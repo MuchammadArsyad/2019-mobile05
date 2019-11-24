@@ -1,8 +1,8 @@
 package polinema.ac.id.starterchapter05.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import polinema.ac.id.starterchapter05.R;
 
